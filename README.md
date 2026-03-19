@@ -1,5 +1,5 @@
 # portfolio-ayushi
-My personal portfolio website built with HTML and CSS.
+My personal portfolio website.
 
 # Ayushi Choudhary - Portfolio
 
